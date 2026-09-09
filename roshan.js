@@ -25,7 +25,7 @@ const weatherCodes = {
 };
 
 const cityAliases = {
-  'मुंबई': 'Mumbai', 'पुणे': 'Pune', 'दिल्ली': 'Delhi', 'नागपुर': 'Nagpur', 'नागपूर': 'Nagpur', 'नाशिक': 'Nashik', 'ठाणे': 'Thane', 'कोल्हापुर': 'Kolhapur', 'कोल्हापूर': 'Kolhapur', 'बेंगलुरु': 'Bengaluru', 'बंगलौर': 'Bengaluru', 'चेन्नई': 'Chennai', 'हैदराबाद': 'Hyderabad', 'कोलकाता': 'Kolkata', 'जयपुर': 'Jaipur', 'लखनऊ': 'Lucknow'
+  'मुंबई': 'Mumbai', 'पुणे': 'Pune', 'दिल्ली': 'Delhi', 'नागपुर': 'Nagpur', 'नागपूर': 'Nagpur', 'नाशिक': 'Nashik', 'ठाणे': 'Thane', 'कोल्हापुर': 'Kolhapur', 'कोल्हापूर': 'Kolhapur', 'बेंगलुरु': 'Bengaluru', 'बंगलौर': 'Bengaluru', 'चेन्नई': 'Chennai', 'हैदराबाद': 'Hyderabad', 'कोलकाता': 'Kolkata', 'जयपुर': 'Jaipur', 'लखनऊ': 'Lucknow', 'न्यू यॉर्क': 'New York'
 };
 
 const el = id => document.getElementById(id);
